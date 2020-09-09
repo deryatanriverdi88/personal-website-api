@@ -1,0 +1,2 @@
+class CodepensController < ApplicationController
+end
