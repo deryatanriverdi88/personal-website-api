@@ -1,0 +1,2 @@
+class Codepen < ApplicationRecord
+end
