@@ -7,6 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Codepen.destroy_all
+Codepen.reset_pk_sequence
 
 
 codepens = Codepen.create([
