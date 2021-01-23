@@ -10,6 +10,7 @@ Codepen.destroy_all
 
 
 codepens = Codepen.create([
+    {name: "Polaroid-Camera", url: "https://codepen.io/deryatanriverdi88/pen/ExgdOxq"},
     {name: "Baby-Yoda", url: "https://codepen.io/deryatanriverdi88/details/RwNELzd"},
     {name: "Cassette-Tape", url: "https://codepen.io/deryatanriverdi88/pen/yLNZJdd"},
     {name: "Hangman", url: "https://codepen.io/deryatanriverdi88/pen/gOawOqY"},
